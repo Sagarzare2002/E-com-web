@@ -1,67 +1,64 @@
 # E-Commerce Website
 
-A Ecommerce Website made with React.js Framework.
-
-
-## Demo
-
-https://reactjs-ecommerce-app.vercel.app/
+An E-Commerce Website built using React.js, Redux, Bootstrap, and Fake Store API
 
 ## Features
 
-- Easy to integrate with Backend
-- Fully Responsive
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
-
+Responsive design
+Product listing
+Product details page
+Shopping cart functionality
+Redux state management
+Easy backend integration
+Clean UI with Bootstrap
 
 ## Run Locally
 
 Clone the project
-
-```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
-```
-
-Go to the project directory
-
-```bash
-  cd React_E-Commerce
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
+git clone https://github.com/Sagarzare2002/E-com-web.git
 
 
+Go to the project directory:
+
+cd E-com-web
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm start
 
 ## Tech Stack
 
-* [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Fake Store API](https://fakestoreapi.com/)
+React.js
+Redux
+Bootstrap
+Fake Store API
+Project Structure
+src/
+├── components/
+├── pages/
+├── redux/
+│   ├── action/
+│   ├── reducer/
+│   └── store.js
+└── index.js
+Contributing
 
-## Contributing
+Contributions are welcome.
 
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
+Fork the repository
+Create a feature branch
+Commit your changes
+Push to your branch
+Open a Pull Request
+Author
 
+Sagar Zare
 
-## Feedback
+GitHub: https://github.com/Sagarzare2002
 
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
 
 
